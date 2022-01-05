@@ -8,3 +8,9 @@ These notes are typically kept short so that they can easily be combined and sea
 
 All images and other assets are stored inside of a directory named `assets` in the directory that they are originally
 used for.
+
+# How To Use
+
+This repository is designed to be used with the search feature to find all the files that have a keyword in it.  If
+you are just interested in browsing, then the folders at the top will be the oldest, while the folders near the bottom
+will be the newest.
