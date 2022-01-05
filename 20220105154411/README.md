@@ -6,13 +6,13 @@ membership.
 
 ## Business Hours
 1. Standard: 93.68
-1. Deluxe: 76.66
-1. Premium: 57.64
+1. Deluxe: 76.67
+1. Premium: 57.65
 
 ## After Hours
-1. Standard: 184.21
-1. Deluxe: 76.66
-1. Premium: 57.64
+1. Standard: 198.95
+1. Deluxe: 76.67
+1. Premium: 57.65
 
 After the diagnostic pricing has been set, then we also need to add the discount to the service ticket.
 
