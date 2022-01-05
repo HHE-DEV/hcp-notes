@@ -1,4 +1,4 @@
 # Image / Asset Test
 
-![image](../assets/20220104203756.png?raw=true)
+![image](assets/screenshot.png?raw=true)
 
