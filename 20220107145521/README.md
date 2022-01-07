@@ -3,6 +3,8 @@
 The service price-book is broken into 4 categories, `Diagnostics`, `Service`,
 `Healthy Home Solutions`, and `Installations`.
 
+![service categories](assets/price-book_categories.png)
+
 ## Diagnostics
 
 The diagnostics category houses services that are typically selected as the
