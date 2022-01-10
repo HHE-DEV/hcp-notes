@@ -5,3 +5,5 @@ existing equipment in the `property profile`.  We do not want to delete it.
 Add `Retired` to the display name, as well as including the date it was
 retired in the `notes` section of the `property profile`.
 
+![retired furnace](assets/retired_furnace.jpeg)
+
